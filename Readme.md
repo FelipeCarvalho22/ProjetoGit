@@ -11,3 +11,8 @@ Usando um repositorio remoto (GitHUB)
 
 Após criar o repositorio remoto, modifique o nome do repositorio pricipal para main
 Para se conectar ao repositorio use: 'git remote add origin "URL do repositorio"'
+
+Com o repositorio conecdado podemos enviar a versão: 'git push -u origin main'
+
+ATENÇÃO: por convenção usa-se origin o nome do repositorio remoto, mas isso é uma escolha do seu time de desenvolvimento
+
